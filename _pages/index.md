@@ -39,5 +39,5 @@ permalink: /
 
 
 
-以下で作成しました
-[KitHubホームページ]https://act-kithub.github.io/
+以下で作成しました  
+[KitHubホームページ](https://act-kithub.github.io/)
